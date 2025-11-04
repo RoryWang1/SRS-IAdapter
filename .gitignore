@@ -1,0 +1,23 @@
+# System files
+.DS_Store
+*.swp
+*.pyc
+
+# SRS source build artifacts
+srs-source/trunk/objs/
+srs-source/trunk/Makefile
+srs-source/trunk/cmake/build/
+srs-source/.git/
+
+# Other build artifacts
+*.o
+*.so
+*.a
+*.lo
+*.slo
+*.dylib
+*.lai
+*.la
+*.heap
+*.exe
+
